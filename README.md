@@ -11,6 +11,7 @@ I have written a dyndelogo module for ffmpeg, it could detect the position of wa
 If you want to get this software, you can contact me via email: yzfedora@gmail.com, test sample video will be provided on bellow.
 
 test video before processing: https://youtu.be/KacC1omWcN0
+
 test video after  processing: https://youtu.be/Dj2wCTAYDLU
 
 (it's a crazy test, the test video will generate a watermark text "Hello, World" in a random position 25 times per second, normally in a product environment, you never seen some video like this, at least it's really crazy).
